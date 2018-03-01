@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: "Ismail Atkurt Github Page"
 locale: "en"
+baseurl: ""
