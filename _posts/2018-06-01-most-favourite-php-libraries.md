@@ -21,7 +21,7 @@ categories: php
 - [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect)
 - []()
 
-#####Guidelines:
+#Guidelines:
 - [jupeter/clean-code-php](https://github.com/jupeter/clean-code-php)
 - [domnikl/DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP)
 - [phalcon/mvc](https://github.com/phalcon/mvc)
